@@ -10,3 +10,4 @@ Accuracy achieved --> **47.69%**
 
 Hence, kNN performs better for this dataset.
 
+
