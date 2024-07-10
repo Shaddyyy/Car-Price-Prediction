@@ -1,5 +1,12 @@
 An elementary statistical learning model for predicting second hand car prices, given certain definitive features of the car.
 
-Algorithm --> **K-Nearest Neighbours** (owing to the cars with similar features being priced around some central value)        
-Dataset source --> Kaggle   
-Accuracy achieved --> **66.11%**    
+Dataset source --> Kaggle
+
+Algorithm --> **K-Nearest Neighbours**        
+Accuracy achieved --> **71.87%**
+
+Algorithm --> **Linear Regression** 
+Accuracy achieved --> **47.69%**    
+
+Hence, kNN performs better for this dataset.
+
