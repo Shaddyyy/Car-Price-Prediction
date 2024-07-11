@@ -5,7 +5,7 @@ Dataset source --> Kaggle
 Algorithm --> **K-Nearest Neighbours**        
 Accuracy achieved --> **71.87%**
 
-Algorithm --> **Linear Regression** 
+Algorithm --> **Linear Regression**
 Accuracy achieved --> **47.69%**    
 
 Hence, kNN performs better for this dataset.
